@@ -13,3 +13,4 @@ import CoreData
 public class Tasks: NSManagedObject {
 
 }
+

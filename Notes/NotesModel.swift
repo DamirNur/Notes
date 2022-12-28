@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Notes {
+    var name: String
+    var note: String
+}
